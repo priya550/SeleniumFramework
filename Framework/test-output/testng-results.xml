@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser has launched Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser has closed successfully]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7015" started-at="2020-03-02T16:01:13Z" finished-at="2020-03-02T16:01:20Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="7015" started-at="2020-03-02T16:01:13Z" finished-at="2020-03-02T16:01:20Z">
+      <class name="test.web.homepage.SearchCatagoryTest">
+        <test-method status="PASS" signature="openBro()[pri:0, instance:test.web.homepage.SearchCatagoryTest@78b1cc93]" name="openBro" is-config="true" duration-ms="6421" started-at="2020-03-02T16:01:13Z" finished-at="2020-03-02T16:01:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser has launched Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBro -->
+        <test-method status="PASS" signature="exitBro()[pri:0, instance:test.web.homepage.SearchCatagoryTest@78b1cc93]" name="exitBro" is-config="true" duration-ms="586" started-at="2020-03-02T16:01:19Z" finished-at="2020-03-02T16:01:20Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser has closed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- exitBro -->
+      </class> <!-- test.web.homepage.SearchCatagoryTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
